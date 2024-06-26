@@ -5,16 +5,12 @@ lista = ['Gol','Palio','Argus','HB20']
 # print(f'Segundo elemento da lista: {[1]}')
 # print(f'Terceiro elemento da lista: {[2]}')
 
-#Cadastrar o automóvel Corsa:
-
 
 # Excluir o automóvel Gol
+lista.remove(lista[0])
 
-lista.remove('Gol')
-# Listar todos os automóveis
-#print(lista)
+#Cadastrar o automóvel Corsa:
 lista.append('Corsa')
+
+# Listar todos os automóveis:
 print(lista)
-
-
-
