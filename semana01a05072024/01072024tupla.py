@@ -8,8 +8,7 @@
 tupla = (1,2,3,4,5)
 print(tupla[0])
 
-# Iterar sobre os elementos: for item in tupla:
+# Iterar sobre os elementos: for item in tupla: Teste
 
 for lista in tupla:
     print("Tupla: ", lista)
-
