@@ -34,10 +34,4 @@ O programa deve permitir ao usuário realizar as seguintes operações através 
 
 # Exemplo de Menu
 
-========== Menu ==========
-Cadastrar uma tarefa
-Alterar uma tarefa
-Excluir uma tarefa
-Listar tarefas
-Sair do sistema
-Escolha uma opção:
+========== Menu ==========\nCadastrar uma tarefa\nAlterar uma tarefa\nExcluir uma tarefa\nListar tarefas\nSair do sistema\nEscolha uma opção:
