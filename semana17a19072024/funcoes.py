@@ -22,7 +22,7 @@ def tabuada(parametro1):
 
 # ---------------------------------#
 
-# Funções do Desafio Nível Inicial:
+# Funções do Desafio Nível Inicial: Elição
 
 
 def obter_numero_eleitores():
@@ -47,3 +47,9 @@ def mostrar_resultados(votos):
     for candidato, num_votos in votos.items():
         print(f"Candidato {candidato} recebeu {num_votos} votos.")
 # ---------------------------------#
+
+# Funções do Desafio Nível Avançado: Eleição
+
+def mostrar_vencedor(votos):
+    vencedor = max(votos, key=votos.get)
+    print(f"O candidato vencedor é o {vencedor} com {votos[vencedor]} votos.")
