@@ -1,4 +1,4 @@
-import funcoes
+#import funcoes
 
 # n1 = 10
 # n2 = 20
