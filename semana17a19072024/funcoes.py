@@ -19,3 +19,4 @@ def tabuada(parametro1):
     for i in range(1, 11):
         tabuada = parametro1 * i
         print(f'{parametro1} X {i} = {tabuada}')
+
