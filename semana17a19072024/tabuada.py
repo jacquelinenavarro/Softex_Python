@@ -17,7 +17,7 @@
 
 import funcoes
 
-n1 = float(input("Digite o número para gerar a tabuada (entre 1 e 10): "))
+n1 = int(input("Digite o número para gerar a tabuada (entre 1 e 10): "))
 
 print(f'O resultado da tabuada de {n1} é:')
 print(funcoes.tabuada(n1))
