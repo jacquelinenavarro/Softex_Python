@@ -15,5 +15,7 @@ def divisao(parametro1, parametro2):
     divisao = parametro1 / parametro2
     return divisao
 
-
-
+def tabuada(parametro1):
+    for i in range(1, 11):
+        tabuada = parametro1 * i
+        print(f'{parametro1} X {i} = {tabuada}')
