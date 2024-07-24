@@ -6,7 +6,6 @@
 # Cada produto é vendido por uma única loja.
 # Relação: Uma loja -> Muitos produtos.
 
-
 caminho_arquivo_produtos = 'produtos.txt'
 caminho_arquivo_funcionarios = 'funcionarios.txt'
 
